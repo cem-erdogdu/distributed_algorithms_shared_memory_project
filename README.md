@@ -1,0 +1,1 @@
+This project is intended to show the usage of the shared memory abstractions and how are they used in the distributed systems.
